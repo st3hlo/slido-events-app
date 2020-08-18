@@ -43,61 +43,6 @@
             "tags": "music",
             "startDate": "Sep 01 2020 14:00:00 GMT+0200 (Central European Summer Time)",
             "endDate": "Sep 01 2020 19:00:00 GMT+0200 (Central European Summer Time)"
-        },
-        {
-            "id": "1111",
-            "name": "Comic Book Fair",
-            "description": "Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut",
-            "location": "Cafe Berlinka Budova SNG, Námestie Ľ. Štúra Bratislava",
-            "price": "",
-            "image": "https://images.unsplash.com/photo-1514329926535-7f6dbfbfb114?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
-            "tags": "music",
-            "startDate": "Sep 01 2020 14:00:00 GMT+0200 (Central European Summer Time)",
-            "endDate": "Sep 01 2020 19:00:00 GMT+0200 (Central European Summer Time)"
-        },
-        {
-            "id": "2222",
-            "name": "1000 Years Of History",
-            "description": "ypi ninja non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem",
-            "location": "Cromwell Rd, South Kensington, London SW7 5BD",
-            "price": "50",
-            "image": "https://images.unsplash.com/photo-1486150702851-498e985c2efc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2102&q=80",
-            "tags": "music",
-            "startDate": "Sep 01 2020 14:00:00 GMT+0200 (Central European Summer Time)",
-            "endDate": "Sep 01 2020 19:00:00 GMT+0200 (Central European Summer Time)"
-        },
-        {
-            "id": "3333",
-            "name": "National theatre event",
-            "description": "Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut",
-            "location": "Cafe Berlinka Budova SNG, Námestie Ľ. Štúra Bratislava",
-            "price": "50",
-            "image": "https://images.unsplash.com/photo-1562329265-95a6d7a83440?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1864&q=80",
-            "tags": "music",
-            "startDate": "Sep 01 2020 14:00:00 GMT+0200 (Central European Summer Time)",
-            "endDate": "Sep 01 2020 19:00:00 GMT+0200 (Central European Summer Time)"
-        },
-        {
-            "id": "4444",
-            "name": "Space Weekend",
-            "description": "Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut",
-            "location": "Prievozská 18, Bratislava",
-            "price": "50",
-            "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1952&q=80",
-            "tags": "music",
-            "startDate": "Sep 01 2020 14:00:00 GMT+0200 (Central European Summer Time)",
-            "endDate": "Sep 01 2020 19:00:00 GMT+0200 (Central European Summer Time)"
-        },
-        {
-            "id": "3333",
-            "name": "Gašparkovo. Divadlo a galéria marionet",
-            "description": "Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut",
-            "location": "Cafe Berlinka Budova SNG, Námestie Ľ. Štúra Bratislava",
-            "price": "50",
-            "image": "https://images.unsplash.com/photo-1531058020387-3be344556be6?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=1600",
-            "tags": "music",
-            "startDate": "Aug 11 2020 14:00:00 GMT+0200 (Central European Summer Time)",
-            "endDate": "Sep 01 2020 19:00:00 GMT+0200 (Central European Summer Time)"
         }
     ]
 }
