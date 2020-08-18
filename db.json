@@ -8,30 +8,30 @@
             "price": "",
             "image": "https://images.unsplash.com/photo-1514329926535-7f6dbfbfb114?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
             "tags": "culture",
-            "startDate": "Sep 01 2020 14:00:00 GMT+0200 (Central European Summer Time)",
-            "endDate": "Sep 01 2020 19:00:00 GMT+0200 (Central European Summer Time)"
+            "startDate": "Aug 015 2020 14:00:00 GMT+0200 (Central European Summer Time)",
+            "endDate": "Sep 05 2020 19:00:00 GMT+0200 (Central European Summer Time)"
         },
         {
             "id": "2222",
             "name": "1000 Years Of History",
             "description": "ypi ninja non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem",
             "location": "Cromwell Rd, South Kensington, London SW7 5BD",
-            "price": "50",
+            "price": "15",
             "image": "https://images.unsplash.com/photo-1486150702851-498e985c2efc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2102&q=80",
-            "tags": "music",
-            "startDate": "Sep 01 2020 14:00:00 GMT+0200 (Central European Summer Time)",
-            "endDate": "Sep 01 2020 19:00:00 GMT+0200 (Central European Summer Time)"
+            "tags": "culture",
+            "startDate": "Sep 20 2020 14:00:00 GMT+0200 (Central European Summer Time)",
+            "endDate": "Okt 01 2020 19:00:00 GMT+0200 (Central European Summer Time)"
         },
         {
             "id": "3333",
             "name": "Exit Festival",
             "description": "Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut",
             "location": "Novi Sad",
-            "price": "50",
+            "price": "150",
             "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80",
             "tags": "music",
             "startDate": "Sep 01 2020 14:00:00 GMT+0200 (Central European Summer Time)",
-            "endDate": "Sep 01 2020 19:00:00 GMT+0200 (Central European Summer Time)"
+            "endDate": "Sep 06 2020 19:00:00 GMT+0200 (Central European Summer Time)"
         },
         {
             "id": "4444",
@@ -40,8 +40,52 @@
             "location": "Prievozská 18, Bratislava",
             "price": "50",
             "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1952&q=80",
-            "tags": "music",
+            "tags": "culture",
             "startDate": "Sep 01 2020 14:00:00 GMT+0200 (Central European Summer Time)",
+            "endDate": "Sep 03 2020 19:00:00 GMT+0200 (Central European Summer Time)"
+        },
+        {
+            "id": "5555",
+            "name": "Scenes in the Square",
+            "description": "See big-screen icons at Scenes in the Square at Leicester Square, an interactive trail of statues in London, right in the heart of the capital’s home of film",
+            "location": "Leicester Square, London",
+            "price": "",
+            "image": "https://images.unsplash.com/photo-1550085997-838afca7d3d4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80",
+            "tags": "culture",
+            "startDate": "Aug 03 2020 14:00:00 GMT+0200 (Central European Summer Time)",
+            "endDate": "Aug 10 2020 19:00:00 GMT+0200 (Central European Summer Time)"
+        },
+        {
+            "id": "5555",
+            "name": "Tech Week",
+            "description": "Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut",
+            "location": "Hampstead, London",
+            "price": "120",
+            "image": "https://images.unsplash.com/photo-1582192904915-d89c7250b235?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1854&q=80",
+            "tags": "seminar",
+            "startDate": "Sep 01 2020 14:00:00 GMT+0200 (Central European Summer Time)",
+            "endDate": "Sep 01 2020 19:00:00 GMT+0200 (Central European Summer Time)"
+        },
+        {
+            "id": "6666",
+            "name": "United Colours of Football 2020",
+            "description": "Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut",
+            "location": "Mudronova, Mudroňova 83, Bratislava",
+            "price": "",
+            "image": "https://images.unsplash.com/photo-1582192904915-d89c7250b235?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1854&q=80",
+            "tags": "Sports",
+            "startDate": "Sep 01 2020 14:00:00 GMT+0200 (Central European Summer Time)",
+            "endDate": "Sep 01 2020 19:00:00 GMT+0200 (Central European Summer Time)"
+        },
+        {
+            "id": "7777",
+            "name": "Clothes swap",
+            "description": "Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut",
+            "location": "Pri Starom Letisku, Bratislava",
+            "price": "",
+            "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80",
+            "tags": "Fashion",
+            "startDate": "Aug 22 2020 14:00:00 GMT+0200 (Central European Summer Time)",
             "endDate": "Sep 01 2020 19:00:00 GMT+0200 (Central European Summer Time)"
         }
     ]
