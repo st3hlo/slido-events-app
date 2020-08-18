@@ -56,14 +56,12 @@ const typeMap = {
     [Status.expired]: "#d90f0f"
 };
 
-const weekInSeconds: number = 7*24*60*60;
-
 export const EventListItem = ({ event }: EventListItemProps) => {
     const classes = useStyles();
 
     const getStatus = () => {
-        if(differenceInSeconds(new Date(event.startDate), new Date()) > weekInSeconds) return Status.upcoming
-        if((differenceInSeconds(new Date(event.startDate), new Date()) < 0) && (differenceInSeconds(new Date(event.endDate), new Date()) > 0) ) return Status.ongoing
+        if(differenceInSeconds(new Date(event.startDate), new Date()) > 0) return Status.upcoming
+        if((differenceInSeconds(new Date(event.startDate), new Date()) < 0) && (differenceInSeconds(new Date(event.endDate), new Date()) > 0)) return Status.ongoing
         return Status.expired
     };
   
