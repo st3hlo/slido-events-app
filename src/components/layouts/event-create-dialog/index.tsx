@@ -26,5 +26,4 @@ export const EventCreateDialog = ({isOpen, onClose}: EventCreateDialogProps) => 
            </DialogContent>
         </Dialog>
     );
-
 };

@@ -82,7 +82,7 @@ export const EventListItem = ({ event }: EventListItemProps) => {
                         <img className={classes.img} alt="complex" src={event.image} />
                     </ButtonBase>
                     <Box className={classes.startDate}>
-                        <Typography variant="h6">
+                        <Typography variant="subtitle1">
                             {formatDistanceToNow(new Date(event.startDate),{addSuffix: true})}
                         </Typography>
                     </Box>

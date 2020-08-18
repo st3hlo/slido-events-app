@@ -12,6 +12,7 @@ import Delete from '@material-ui/icons/Delete';
 import { GlobalState } from '../../../store';
 import { State } from '../../../models/store/State';
 import { listEvents, deleteEvent } from '../../../store/reducers/event/list';
+
 import { DeleteEventDialog } from '../delete-event-dialog';
 
 const useStyles = makeStyles({
