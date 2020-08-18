@@ -124,7 +124,7 @@ export const EventCreateForm = ({ closeAction, onClose }: EventCreateFormProps) 
                     <Box mb={2} mt={2} display="flex" flexDirection="row" justifyContent="flex-start">
                         <Box>
                             <Field
-                                label="startDate"
+                                label="startDate*"
                                 name="startDate"
                                 variant="outlined"
                                 component={DatePickerAdapter}
@@ -133,7 +133,7 @@ export const EventCreateForm = ({ closeAction, onClose }: EventCreateFormProps) 
                         </Box>
                         <Box ml={2}>
                             <Field
-                                label="endDate"
+                                label="endDate*"
                                 name="endDate"
                                 variant="outlined"
                                 component={DatePickerAdapter}

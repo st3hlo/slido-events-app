@@ -98,7 +98,7 @@ export const EventListItem = ({ event }: EventListItemProps) => {
                         </Typography>
                     </Box>
                     <Box className={classes.description} >
-                        <Typography >
+                        <Typography style={{overflow: "auto"}} >
                             {_.truncate(event.description, {length: 100})}
                         </Typography>
                     </Box>

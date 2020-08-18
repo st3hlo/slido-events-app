@@ -41,7 +41,8 @@ const useStyles = makeStyles({
         marginTop: "32px"
     },
     description: {
-       marginBottom: "32px"
+       marginBottom: "32px",
+       overflow: "auto"
     },
     locationTitle: {
         marginBottom: "16px",
