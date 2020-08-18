@@ -8,7 +8,7 @@ created as a demonstration app for sli.do as a part of an assignment
 
 # About
 App uses a json mock server for initial fetch of mock data from db.json from my public github repository.
-Demonstrates fetch, create and delete functionality
+Demonstrates fetch, create and delete functionality. Developed with React, Typescript and Material UI. Tested on Chrome.
 
 ## tags in list
 - reen tag => upcoming
