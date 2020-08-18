@@ -2,7 +2,7 @@ By Martin Stehlik <br/>
 created as a demonstration app for sli.do as a part of an assignment
 
 # steps to build: 
-- lone project
+- clone project
 - npm install
 - npm start
 
