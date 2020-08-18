@@ -1,19 +1,19 @@
-By Martin Stehlik
+By Martin Stehlik <br/>
 created as a demonstration app for sli.do as a part of an assignment
 
-## steps to build: 
--clone project
--npm install
--npm start
+# steps to build: 
+- lone project
+- npm install
+- npm start
 
-## About
+# About
 App uses a json mock server for initial fetch of mock data from db.json from my public github repository.
 Demonstrates fetch, create and delete functionality
 
-# tags in list
--green tag => upcoming
--yellow tag => ongoing
--red tag => expired
+## tags in list
+- reen tag => upcoming
+- yellow tag => ongoing
+- red tag => expired
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
