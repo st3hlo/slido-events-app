@@ -27,15 +27,11 @@ export const eventListReducer = (
             loading: false
         }),
         [EventsListAction.CreateFailure]: () => ({ result: null, error: payload?.error, loading: false }),
-        [EventsListAction.DeleteSuccess]: () => {
-            const asd = ({
+        [EventsListAction.DeleteSuccess]: () => ({
                 result: state.result?.filter(({ id }) => id !== payload?.params?.id),
                 error: null,
                 loading: false
-            })
-
-            return asd;
-        },
+        }),
         [EventsListAction.CreateFailure]: () => ({ result: null, error: payload?.error, loading: false }),
     }) as ReducerStateMap<EventsListReducerState>;
 
